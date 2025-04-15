@@ -28,4 +28,5 @@ To analyze trade failures, assess associated risks, and propose actions for seam
 - `Goldman_Forage_Certificate.pdf`: Completion certificate for verification.
 
 ## 📝 Certificate
-![Certificate](./Goldman_Forage_Certificate.pdf)
+![Certificate](wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_fCiXbC56C7o6EoKjw_1744292755701_completion_certificate-12.pdf
+
